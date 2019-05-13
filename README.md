@@ -3,12 +3,13 @@ A repo to organize and track my progress on topics I want to learn over the summ
 
 ## Resources to go Through:
 ### Basics:
+Lin alg:
 - [ ] [Linear Algebra - MIT18.06](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)
 
 - [ ] [Linear Algebra - Deep Learning book - Goodfellow](https://www.deeplearningbook.org/contents/linear_algebra.html)
 
 <br/>
-
+Calc:
 - [ ] [Differential Equations](https://www.khanacademy.org/math/differential-calculus)
 
 - [ ] [Multivariable calculus](https://www.khanacademy.org/math/multivariable-calculus)
@@ -18,7 +19,7 @@ A repo to organize and track my progress on topics I want to learn over the summ
 - [ ] [Numerical Computation - Deep Learning book - Goodfellow](https://www.deeplearningbook.org/contents/numerical.html)
 
 <br/>
-
+Stats:
 - [ ] [Statistics and probability](https://www.khanacademy.org/math/statistics-probability)
 
 - [ ] [Statistics 110 - Harvard](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)
@@ -26,7 +27,7 @@ A repo to organize and track my progress on topics I want to learn over the summ
 - [ ] [Probability and InformationTheory - Deep Learning book - Goodfellow](https://www.deeplearningbook.org/contents/prob.html)
 
 <br/>
-
+Python & libraries:
 - [ ] [Intermediate Python](https://pythonprogramming.net/introduction-intermediate-python-tutorial/)
 
 - [ ] [numpy](http://cs231n.github.io/python-numpy-tutorial/)
@@ -34,7 +35,7 @@ A repo to organize and track my progress on topics I want to learn over the summ
 - [ ] [Pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html)
 
 <br/>
-
+ML:
 - [ ] [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com)
 
 - [ ] [Deep learning book](https://www.deeplearningbook.org/)
