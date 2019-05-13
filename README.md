@@ -7,7 +7,7 @@ A repo to organize and track my progress on topics I want to learn over the summ
 
 - [ ] [Linear Algebra - Deep Learning book - Goodfellow](https://www.deeplearningbook.org/contents/linear_algebra.html)
 
-
+<br/>
 
 - [ ] [Differential Equations](https://www.khanacademy.org/math/differential-calculus)
 
@@ -17,7 +17,7 @@ A repo to organize and track my progress on topics I want to learn over the summ
 
 - [ ] [Numerical Computation - Deep Learning book - Goodfellow](https://www.deeplearningbook.org/contents/numerical.html)
 
-
+<br/>
 
 - [ ] [Statistics and probability](https://www.khanacademy.org/math/statistics-probability)
 
@@ -25,7 +25,7 @@ A repo to organize and track my progress on topics I want to learn over the summ
 
 - [ ] [Probability and InformationTheory - Deep Learning book - Goodfellow](https://www.deeplearningbook.org/contents/prob.html)
 
-
+<br/>
 
 - [ ] [Intermediate Python](https://pythonprogramming.net/introduction-intermediate-python-tutorial/)
 
@@ -33,8 +33,7 @@ A repo to organize and track my progress on topics I want to learn over the summ
 
 - [ ] [Pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html)
 
-
-
+<br/>
 
 - [ ] [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com)
 
