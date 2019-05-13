@@ -10,6 +10,7 @@ Lin alg:
 
 <br/>
 Calc:
+
 - [ ] [Differential Equations](https://www.khanacademy.org/math/differential-calculus)
 
 - [ ] [Multivariable calculus](https://www.khanacademy.org/math/multivariable-calculus)
@@ -20,6 +21,7 @@ Calc:
 
 <br/>
 Stats:
+
 - [ ] [Statistics and probability](https://www.khanacademy.org/math/statistics-probability)
 
 - [ ] [Statistics 110 - Harvard](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)
@@ -28,6 +30,7 @@ Stats:
 
 <br/>
 Python & libraries:
+
 - [ ] [Intermediate Python](https://pythonprogramming.net/introduction-intermediate-python-tutorial/)
 
 - [ ] [numpy](http://cs231n.github.io/python-numpy-tutorial/)
@@ -36,6 +39,7 @@ Python & libraries:
 
 <br/>
 ML:
+
 - [ ] [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com)
 
 - [ ] [Deep learning book](https://www.deeplearningbook.org/)
