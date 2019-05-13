@@ -14,7 +14,7 @@ A repo to organize and track my progress on topics I want to learn over the summ
 
 - [ ] [Matrix Calculus](https://explained.ai/matrix-calculus/index.html)
 
-- [ ] [Numerical Computation - Deep Learning boo - Goodfellow](https://www.deeplearningbook.org/contents/numerical.html)
+- [ ] [Numerical Computation - Deep Learning book - Goodfellow](https://www.deeplearningbook.org/contents/numerical.html)
 
 
 - [ ] [Statistics and probability](https://www.khanacademy.org/math/statistics-probability)
