@@ -21,15 +21,21 @@ A repo to organize and track my progress on topics I want to learn over the summ
 
 [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com)
 [Deep learning book](https://www.deeplearningbook.org/)
+
 hands-on machine learning with scikit-learn and tensorflow 2.0 (coming soon)
 
 ### Fast.ai:
 [Practical Deep Learning for Coders, v3](https://course.fast.ai/)
 ### deeplearning.ai
 [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning)
+
 [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network?specialization=deep-learning)
+
 [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects?specialization=deep-learning)
+
 [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning)
+
 [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models)
+
 ### papers:
 [Playing Atari with Deep Reinforcement Learning](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)
