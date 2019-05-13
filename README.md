@@ -60,5 +60,9 @@ ML:
 
 - [ ] [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models)
 
+### [Deep learning google styles (with tensorflow)](https://www.coursera.org/specializations/machine-learning-tensorflow-gcp)
+
 ### papers:
 - [ ] [Playing Atari with Deep Reinforcement Learning](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)
+- [ ] [Paper Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)
+
